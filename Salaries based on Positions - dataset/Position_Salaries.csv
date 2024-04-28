@@ -1,5 +1,6 @@
 Position,Level,Salary
-Business Analyst,1,45000
+Business Analyst,1,45\
+
 Junior Consultant,2,50000
 Senior Consultant,3,60000
 Manager,4,80000
